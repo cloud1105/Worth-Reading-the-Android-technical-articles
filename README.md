@@ -675,7 +675,47 @@
 	<a href="http://hukai.me/android-tips-for-reduce-apk-size/"><span style="font-size:18px;">Android APK安装包瘦身</span></a><br />
 	
 </p>
+<p>
+	<a href="http://my.oschina.net/xesam/blog/143985"><span style="font-size:18px;">自定义ADT模板</span></a><br />
+	
+</p>
+<p>
+	<a href="http://zmywly8866.github.io/2015/04/06/decrease-apk-size.html"><span style="font-size:18px;">关于APK瘦身值得分享的一些经验</span></a><br />
+	
+</p>
+<p>
+	<a href="http://stormzhang.com/android/2015/03/29/android-support-library/"><span style="font-size:18px;">Android Support兼容包详解</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/ekeuy/article/details/44974549"><span style="font-size:18px;">Android xml资源文件中@、@android:type、@*、？、@+含义和区别</span></a><br />
+	
+</p>
+<p>
+	<a href="http://www.zcool.com.cn/article/ZNjI3NDQ%3D.html"><span style="font-size:18px;">Android屏幕适配知识大全（美工与程序员须知）</span></a><br />
+	
+</p>
 
+<p>
+	<a href="http://yanbober.github.io/timeline.html"><span style="font-size:18px;">Android开发系列干货博客</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/u013045971/article/details/41984879"><span style="font-size:18px;">Android 闪电效果 (Electric Screen,电动屏幕)</span></a><br />
+	
+</p>
+<p>
+	<a href="http://blog.csdn.net/u013045971/article/details/42016501"><span style="font-size:18px;">Android 碎屏效果 (Crack Screen,击碎屏幕)</span></a><br />
+	
+</p>
+<p>
+	<a href="https://github.com/simple-android-framework/android_design_patterns_analysis"><span style="font-size:18px;">Android源码设计模式分析项目</span></a><br />
+	
+</p>
+<p>
+	<a href="http://www.cnblogs.com/qianxudetianxia/category/312863.html"><span style="font-size:18px;">Android设计模式系列</span></a><br />
+	
+</p>
 <p>
 	<span style="font-size:18px;"><br />
 	</span>
@@ -713,7 +753,10 @@
 	<a href="http://www.infoq.com/cn/presentations/the-road-of-mobile-qq-mobile-network-practice"><span style="font-size:18px;">手机QQ的移动网络实践之路</span></a><br />
 	
 </p>
-
+<p>
+	<a href="http://www.infoq.com/cn/presentations/static-detection-method-for-android-app-vulnerabilities"><span style="font-size:18px;">安卓APP漏洞的静态检测方法</span></a><br />
+	
+</p>
 <p>
 	<span style="font-size:18px;"><br />
 	</span>
